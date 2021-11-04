@@ -21,7 +21,7 @@ Just 🏃 running away from the conventional. <br> <br>
 🎓 Graduating at <strong>System Development</strong> <br>
 💻 On my way to become a <strong>Creative Developer</strong>.
 
-💕 Front-end, WebGl, User Interactions 💕
+💕 Pug, Sass, Node, WebGl, User Interactions 💕
 
 
 ![maverick-top](https://user-images.githubusercontent.com/62191201/138017567-1ee8ebd3-93af-4bff-a198-54d3f709eab3.gif)
