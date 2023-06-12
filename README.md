@@ -1,4 +1,4 @@
-## ⬛ pop_os@lucassilva: ~ / lucas / my_brain / thoughts.txt
+## ⬛ [lucas@archlinux ~] cat who_am_i.txt
 
 <!--
 **SlenderB13/SlenderB13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Fullstack developer
+...but i love: ✨ _<strong>frontend</strong>_ ✨ <br>
 
-### So, what's up? 🤙 ⭐
-
-Just 🏃 running away from the conventional. <br> <br>
 🎓 Graduating at <strong>System Development</strong> <br>
 💻 On my way to become a <strong>Creative Developer</strong>.
 
-💕 Pug, Sass, JavaScript, WebGl, User Interactions 💕
+💕 WebGl and User Interactions 💕
 
-<strong>That's me... the Front-End guy!!</strong>
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,html,sass,python,django,postgresql&theme=dark)](https://skillicons.dev)
 
 ![maverick-top](https://user-images.githubusercontent.com/62191201/138017567-1ee8ebd3-93af-4bff-a198-54d3f709eab3.gif)
