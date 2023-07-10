@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 💕 WebGl and User Interactions 💕
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,html,sass,python,django,postgresql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,html,sass,tailwindcss,postgresql&theme=dark)](https://skillicons.dev)
 
 ![maverick-top](https://user-images.githubusercontent.com/62191201/138017567-1ee8ebd3-93af-4bff-a198-54d3f709eab3.gif)
