@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Fullstack developer
-...but i love: ✨ _<strong>frontend</strong>_ ✨ <br>
 
-🎓 Graduating at <strong>System Development</strong> <br>
-💻 On my way to become a <strong>Creative Developer</strong>.
+🎓 Graduated in <strong>System Development</strong> <br>
 
-💕 WebGl and User Interactions 💕
+Creator of this [fic writing app](fic-frontend.vercel.app)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,html,sass,tailwindcss,postgresql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,html,sass,tailwindcss,postgresql,django&theme=dark)](https://skillicons.dev)
 
 ![maverick-top](https://user-images.githubusercontent.com/62191201/138017567-1ee8ebd3-93af-4bff-a198-54d3f709eab3.gif)
