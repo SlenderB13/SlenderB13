@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🎓 Graduated in <strong>System Development</strong> <br>
 
-Creator of this [fic writing app](fic-frontend.vercel.app)
+Creator of this [fic writing app](https://fic-frontend.vercel.app)
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,html,sass,tailwindcss,postgresql,django&theme=dark)](https://skillicons.dev)
 
