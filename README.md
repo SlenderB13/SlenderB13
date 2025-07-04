@@ -20,7 +20,8 @@ My name is Lucas Silva. <br>
 
 I work as a Fullstack Developer in [Natural Education](https://natural.education) (for 3 years now).
 
-Creator of this [fic writing app](https://fic-frontend.vercel.app) and a few more. Feel free to explore the repo.
+Creator of [THE ROOM](https://theroooom.com) app. <br>
+Also creator of this [fic writing app](https://fic-frontend.vercel.app) and a few more. Feel free to explore the repo.
 
 ## Social
 [Instagram](https://instagram.com/reverendoslender)
